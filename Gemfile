@@ -68,4 +68,8 @@ gem 'bootstrap-sass', '3.3.7'
 
 gem 'bcrypt',         '3.1.11'
 
+gem 'rails-html-sanitizer', '~> 1.0.4'
+
+
+
 
